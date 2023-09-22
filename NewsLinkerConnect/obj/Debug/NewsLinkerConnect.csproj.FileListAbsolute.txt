@@ -1,0 +1,11 @@
+C:\Users\amrinder\Source\Repos\NewsLinkerConnect\NewsLinkerConnect\bin\Debug\NewsLinkerConnect.exe.config
+C:\Users\amrinder\Source\Repos\NewsLinkerConnect\NewsLinkerConnect\bin\Debug\NewsLinkerConnect.exe
+C:\Users\amrinder\Source\Repos\NewsLinkerConnect\NewsLinkerConnect\bin\Debug\NewsLinkerConnect.pdb
+C:\Users\amrinder\Source\Repos\NewsLinkerConnect\NewsLinkerConnect\obj\Debug\NewsLinkerConnect.csproj.AssemblyReference.cache
+C:\Users\amrinder\Source\Repos\NewsLinkerConnect\NewsLinkerConnect\obj\Debug\NewsLinkerConnect.Form1.resources
+C:\Users\amrinder\Source\Repos\NewsLinkerConnect\NewsLinkerConnect\obj\Debug\NewsLinkerConnect.Properties.Resources.resources
+C:\Users\amrinder\Source\Repos\NewsLinkerConnect\NewsLinkerConnect\obj\Debug\NewsLinkerConnect.TabForm.resources
+C:\Users\amrinder\Source\Repos\NewsLinkerConnect\NewsLinkerConnect\obj\Debug\NewsLinkerConnect.csproj.GenerateResource.cache
+C:\Users\amrinder\Source\Repos\NewsLinkerConnect\NewsLinkerConnect\obj\Debug\NewsLinkerConnect.csproj.CoreCompileInputs.cache
+C:\Users\amrinder\Source\Repos\NewsLinkerConnect\NewsLinkerConnect\obj\Debug\NewsLinkerConnect.exe
+C:\Users\amrinder\Source\Repos\NewsLinkerConnect\NewsLinkerConnect\obj\Debug\NewsLinkerConnect.pdb
